@@ -1,4 +1,4 @@
-# GIT COMPLETO: Do básico ao avançado
+# GIT COMPLETO: do básico ao avançado
 
 Este repositório é referente ao curso de Git Completo [DevMasterTeam](http://www.devmasterteam.com/) disponível na [Udemy](https://www.udemy.com/course/git-completo-do-basico-ao-avancado/?referralCode=23BF453C75F742F0926F).
 
